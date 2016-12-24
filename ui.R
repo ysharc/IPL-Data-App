@@ -72,7 +72,7 @@ shinyUI(navbarPage("IPL-Data-Visualization",
                                   
                                   h1('Quick Usage'),
                                   tags$ol(
-                                    tags$li("Open [url]"), 
+                                    tags$li("Open http://rpubs.com/ysharc/184185"), 
                                     tags$li("Select your favorite team on the right"), 
                                     tags$li("The Stats tab shows you some basic statistics of the team"),
                                     tags$li("The following are the features provided by the map"),
